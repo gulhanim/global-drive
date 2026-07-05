@@ -1,0 +1,6 @@
+{
+  "name": "GlobalDrive",
+  "description": "A robust global car rental booking, fleet management and real-time analytics system with AI emergency dispatch chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
